@@ -1,2 +1,2 @@
-# Pokemon
+# PokemonGo
 Object Oriented Programming Project
